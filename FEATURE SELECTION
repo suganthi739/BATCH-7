@@ -1,0 +1,2 @@
+X = data[['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup', 'Latitude', 'Longitude']]
+y = data['MedHouseVal']
