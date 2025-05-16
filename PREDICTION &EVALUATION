@@ -1,0 +1,5 @@
+plt.scatter(y_test, predictions)
+plt.xlabel("Actual Prices")
+plt.ylabel("Predicted Prices")
+plt.title("House Price Prediction")
+plt.show()
