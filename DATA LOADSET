@@ -1,0 +1,2 @@
+housing = fetch_california_housing(as_frame=True)
+data = housing.frame
